@@ -1,2 +1,1 @@
-# Lihua
-My personal repository
+#About me
